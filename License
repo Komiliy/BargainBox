@@ -1,0 +1,51 @@
+Copyright (c) 2025 Bilol K.
+
+Permission is hereby granted to any person viewing or using this software and 
+associated documentation files (the "Software") for the limited purpose of:
+
+1. Contributing improvements, bug fixes, tests, or documentation through pull requests.
+2. Reviewing or studying the source code for educational purposes.
+
+The following actions are **strictly prohibited** without prior written permission
+from the copyright holder:
+
+1. Commercial Use  
+This includes selling, licensing, monetizing, hosting, offering the Software as a
+service (SaaS), or using it within a commercial product or business.
+
+2. Redistribution  
+You may not copy, publish, distribute, sublicense, or make the Software available
+in any form outside of personal local use.
+
+3. Modification for Distribution  
+You may modify the Software for personal experimentation only. Modified versions 
+may NOT be shared, published, released, distributed, or sold.
+
+4. Resale or Rebranding  
+You may not rebrand, rename, republish, or represent the Software as your own product.
+
+5. Hosting or Running as a Public Service  
+You may not deploy or host the Software publicly in any manner that provides access
+to others (free or paid).
+
+---
+
+## Allowed Contributions
+Contributors may submit:
+
+- Bug fixes
+- New features
+- Documentation improvements
+- Security patches
+- Refactoring proposals
+
+All contributions are licensed to the project owner, who retains all commercial rights.
+
+---
+
+## No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY DAMAGES OR CLAIMS ARISING FROM USE
+OR MISUSE OF THE SOFTWARE.
+
+---
